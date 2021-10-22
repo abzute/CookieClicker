@@ -5,6 +5,8 @@
  *  A minimal Java program with a graphical user interface. The
  *  GUI prints out the number of times the user clicks a button.
  *
+ *  Written in Java by Jack Keane @ GSU 
+ *
  *  % java GUI
  *
  ******************************************************************************/
